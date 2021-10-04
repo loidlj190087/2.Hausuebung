@@ -26,6 +26,7 @@ public class HalloJavamitForEach {
         Consumer<String> consumer = (String s) -> System.out.println(s);
         
         //liste.forEach(System.out::print);
+        
     }
     
         
